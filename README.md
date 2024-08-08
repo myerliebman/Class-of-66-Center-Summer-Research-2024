@@ -26,6 +26,9 @@ regressiontest.py - Runs a regression test on the graph from localtest
 
 
 
+
+
+
 **Instructions for use:**
 
 Use localdataread.py and weatherapihistorical.py to get data and write to csv files. Use csvsort.py to sort the csv by timestamp.
